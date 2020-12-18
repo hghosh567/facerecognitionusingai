@@ -1,7 +1,4 @@
-# author: ZHANG wentong
-# date: 2017.05.08
-# email: wentong.zhang@groupe-esigelec.org
-# code for testing the model by some existing normal photos
+
 
 from keras.models import Sequential
 from keras.models import model_from_json
