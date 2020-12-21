@@ -1,9 +1,4 @@
-# author: ZHANG wentong
-# date: 2017.05.08
-# email: wentong.zhang@groupe-esigelec.org
-# code for testing the model by 4 existing photos
-# these photos are already cropped and applied LBP
-# and then use the pi-camera to test the real-time face recognition
+
 
 from keras.models import model_from_json
 from keras.utils import np_utils
